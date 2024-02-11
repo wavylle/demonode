@@ -10,8 +10,14 @@
   "author": "Abhirath Dubey",
   "license": "ISC",
   "dependencies": {
+    "@deepgram/sdk": "^3.1.9",
+    "deepgram": "^1.0.3",
+    "dotenv": "^16.4.2",
+    "elevenlabs-node": "^2.0.3",
     "express": "^4.18.2",
+    "fs": "^0.0.1-security",
     "serverless-http": "^3.2.0",
-    "touch": "^3.1.0"
+    "touch": "^3.1.0",
+    "ws": "^8.16.0"
   }
 }
